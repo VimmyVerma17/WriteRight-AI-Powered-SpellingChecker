@@ -1,0 +1,5 @@
+flask
+pyspellchecker
+PyPDF2
+chardet
+gingerit
