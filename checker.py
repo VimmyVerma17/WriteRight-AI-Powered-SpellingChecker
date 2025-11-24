@@ -4,7 +4,7 @@ from io import BytesIO
 from PyPDF2 import PdfReader
 import language_tool_python
 
-# Initialize spell checker and language tool
+# Initializing spell checker and language tool
 spell = SpellChecker()
 tool = language_tool_python.LanguageTool('en-US')
 
